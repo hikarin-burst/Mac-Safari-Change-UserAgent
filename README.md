@@ -1,0 +1,1 @@
+# Mac-Safari-Change-UserAgent
