@@ -11,3 +11,4 @@ Safariにあるユーザーエージェントは /Applications/Safari.app/Conten
 
 .commndにすると楽。権限で弾かれる場合は、書いてからターミナルで、chmod u+x とファイルのパス。（付与したいファイルをDDでおk）
 
+defaultsコマンドは自己責任で使ってね。はーと
