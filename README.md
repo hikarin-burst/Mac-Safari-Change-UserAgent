@@ -11,4 +11,6 @@ Safariにあるユーザーエージェントは /Applications/Safari.app/Conten
 
 .commndにすると楽。権限で弾かれる場合は、書いてからターミナルで、chmod u+x とファイルのパス。（付与したいファイルをDDでおk）
 
-defaultsコマンドは自己責任で使ってね。はーと
+defaultsコマンドは自己責任で使ってね。
+
+defaults delete com.apple.Safari CustomUserAget これで元通り
